@@ -15,8 +15,8 @@ body {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  color: var(--main-text-color);
-  background-color: #434455;
+  color: #434455;
+  background-color: #FFFFFF;
 }
 
 ul {
