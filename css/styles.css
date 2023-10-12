@@ -59,15 +59,15 @@ address {
   line-height: 1.14;
   letter-spacing: 0.02em;
   background-color: greenyellow;
-  display: flex;
-  align-items: center;
+  /* display: flex; */
+  /* align-items: center; */
 }
 
 .header-information {
   justify-content: space-between;
 }
 .navigation-menu {
-  display: flex;
+  /* display: flex; */
   margin-left: 93px;
 }
 .navigation-menu-item{
@@ -94,7 +94,7 @@ address {
 }
 
 .header-contacts {
-  display: flex;
+  /* display: flex; */
   background-color: lightblue;
 }
 
