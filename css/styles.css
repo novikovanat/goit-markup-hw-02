@@ -19,12 +19,13 @@ body {
   background-color: #FFFFFF;
 }
 .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   text-transform: uppercase;
   color: #4d5ae5;
+  letter-spacing:0.03em ;
 }
 .logo-studio{
   color: #2e2f42;
@@ -204,14 +205,14 @@ h4.section-title {
   color: var(--white);
 }
 
-.logo {
+/* .logo {
   font-family: Raleway;
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
   color: var(--accent-color);
   margin-left: 40px;
-}
+} */
 .logo-color-header {
   color: #000000;
 }
