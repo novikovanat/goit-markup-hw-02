@@ -36,6 +36,33 @@ body {
   color:#404bbf;
 }
 
+.headline-section
+{
+  background-color: #2e2f42;
+
+}
+.headline {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  color: #ffffff;
+
+}
+
+.headline-button
+{ background-color: #4D5AE5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.headline-button:hover,
+.headline-button:focus {
+  background-color: #404BBF;
+
+}
 
 /* 
 
