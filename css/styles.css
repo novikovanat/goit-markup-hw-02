@@ -59,15 +59,13 @@ address {
   line-height: 1.14;
   letter-spacing: 0.02em;
   background-color: greenyellow;
-  /* display: flex; */
-  /* align-items: center; */
-}
+  
 
 .header-information {
   justify-content: space-between;
 }
 .navigation-menu {
-  /* display: flex; */
+  
   margin-left: 93px;
 }
 .navigation-menu-item{
@@ -94,7 +92,7 @@ address {
 }
 
 .header-contacts {
-  /* display: flex; */
+  
   background-color: lightblue;
 }
 
@@ -175,9 +173,6 @@ h4.section-title {
   font-size: 16px;
   line-height: 1.19;
 }
-
-/*.team-member {
-  text-align: center;}*/
 
 .job-title {
   font-size: 16px;
