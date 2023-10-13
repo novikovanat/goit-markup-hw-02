@@ -112,6 +112,14 @@ body {
     letter-spacing: 0.02em;
     color:#2e2f42;
   }
+
+  .footer{
+    background-color: #2e2f42;
+
+  }
+  .span-logo-white{
+  color: #f4f4fd ;
+  }
 /* 
 
 :root {
