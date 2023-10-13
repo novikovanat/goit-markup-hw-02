@@ -29,16 +29,18 @@ body {
   color: #434455;
 }
 
-.address .navigation-menu-item {
+.page-link-colors {
   color: #2e2f42;
 }
+.external-link-colors {
+  color: #434455;
+}
 
-.navigation-menu-item {
+.navigation-menu {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .navigation-menu-link:focus,
